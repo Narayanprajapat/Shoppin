@@ -1,3 +1,8 @@
+"""
+I have used a fake API URL to crawl the data. However, as you requested, you wanted to crawl an e-commerce website. This code also works at an architecture level. And we can create separate functions for each URL.
+"""
+
+
 import requests
 import jsonlines
 from typing import Optional
